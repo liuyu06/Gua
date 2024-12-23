@@ -14,6 +14,7 @@ function initTable() {
 	}
 	return table;
 }
+
 const _table = initTable();
 const _scores = initTable();
 const _arrows = <Arrow[][]>initTable();
